@@ -15,4 +15,8 @@ public class Kuah extends Menu{
         setHarga (0);
         setKategori ("Kuah");
     }
+
+    public Kuah(String ramen_Seafood, int i) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
